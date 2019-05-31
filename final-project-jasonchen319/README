@@ -1,0 +1,19 @@
+README
+
+MovieObject.java: contains the MovieObject.
+
+RatingObject.java: contains the RatingObject.
+
+MoviesAndRatingParsing.java: Reads and parses the movie.dat and ratings.dat files and 
+stores the data in HashMaps.
+
+MoviesSimilarity.java: Calculates the similarity values between movies and stores them in a 
+2D array.
+
+MoviesRatingPrediction.java: Calculates the rating predictions for unrated movies by each user.
+
+TopFiveRecommendations.java: Finds the top five predicted rating movies for all users.
+
+TopFiveOutput.java: Output the results of top five recommendations to a text file.
+
+MainDriver.java: The main class that calls the TopFiveOutput.java class.
